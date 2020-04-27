@@ -1,0 +1,2 @@
+msgstr "test1"
+msgstr "Error de sincronización"
