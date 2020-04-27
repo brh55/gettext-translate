@@ -1,0 +1,17 @@
+{
+  "name": "gettext-translate",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "translate": "npm run start"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "google-translate-api": "^2.3.0",
+    "google-translate-token": "^1.0.0",
+    "translation-google": "^0.2.1"
+  }
+}
