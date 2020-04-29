@@ -1,2 +1,2 @@
-msgstr "test1"
+msgid "test1"
 msgstr "Error de sincronización"
