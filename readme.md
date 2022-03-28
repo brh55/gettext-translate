@@ -1,5 +1,5 @@
 # gettext translate
-Just a hacky and fast way to quickly translate `gettext` formatted files using Google translate. This is quite useful for Fitbit developers who need to support multiple languages.
+A fast way to quickly translate `gettext` formatted files using Google translate. This is quite useful for Fitbit developers who need to support multiple languages, but do this manually today.
 
 ## Usage
 
